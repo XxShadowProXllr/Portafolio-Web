@@ -64,9 +64,7 @@
     padding: 10px 20px;
     border-radius: 5px;
     transition: all 0.2s ease;
-    /* Modificar el valor a 0.2s */
 }
-
 
 .options ul li a:hover {
     position: relative;
@@ -83,9 +81,7 @@
     background-color: #C0C0C0;
     transform: scaleX(0);
     transition: transform 0.5s ease;
-    /* Modificar el valor a 0.5s */
 }
-
 
 .options ul li a:hover::before {
     transform-origin: left;
